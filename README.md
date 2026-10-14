@@ -32,23 +32,6 @@ Alongside my engineering work, I lead technical direction, mentor developers, co
 
 ---
 
-## Featured Projects
-
-### B2B Airline Ticketing Platform
-*Project Manager / Principal Software Engineer*
-
-A B2B airline ticket distribution platform supporting end-to-end travel-agent workflows. Designed backend architecture, integrated multiple GDS and NDC providers through supplier-specific adapters, and built a normalised data model with asynchronous workflows and caching for fast search. Implemented pricing and fare-rule workflows, and owned queue architecture, database design, and production deployment.
-
-### Airline & Travel Supplier Integration Platform
-
-A multi-supplier integration layer delivering search and response normalisation, pricing and booking workflows, API authentication, asynchronous processing, caching, structured error handling, and retry strategies.
-
-### B2B Business Management Systems
-
-Enterprise business systems featuring role-based authentication and authorisation, administrative dashboards, reporting, background processing, and third-party integrations, deployed and maintained in production.
-
----
-
 ## Skills
 
 **Languages**
